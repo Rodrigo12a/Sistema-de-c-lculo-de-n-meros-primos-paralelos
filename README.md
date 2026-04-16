@@ -37,7 +37,7 @@ Se utiliza la **Criba de Eratóstenes Segmentada**, la cual:
 
 ```bash
 g++ -fopenmp -O3 src/main.cpp -o primes
-
+```
 ---
 
 ## Compilación
